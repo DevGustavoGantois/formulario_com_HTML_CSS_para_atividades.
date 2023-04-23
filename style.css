@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bruno Ace', cursive;
+}
+
+header {
+    margin: 30px;
+}
+
+body {
+    text-align: center;
+    background-color: #0088ff;
+    color: rgb(0, 0, 0);
+}
+
+form  {
+    background-color: white;
+    padding: 20px;
+    margin: 100px;
+    box-shadow: 6px 5px 7px black;
+    border-radius: 20px;
+    font-size: large;
+    
+}
+
+.input-name {
+    margin: 10px;
+    
+}
+
+.titulo-formulario:hover  {
+    color: white;
+    transition: 3s;
+}
+
+button {
+    font-size: large;
+    color: white;
+    background-color: gray;
+    padding: 12px;
+    border-radius: 10%;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    height: 50px;
+}
+.btn:hover {
+    background-color: rgb(10, 165, 10);
+    transition: 2s;
+}
+
+.input-name2 {
+    padding: 3px;
+    border-radius: 20%;
+}
+
+.input-email1 {
+    padding: 3px;
+    border-radius: 20%;
+}
+
+.input-senha1 {
+    padding: 3px;
+    border-radius: 20%;
+}
+
+.input-idade1 {
+    padding: 3px;
+    border-radius: 20%;
+}
+
+.input-data1 {
+    padding: 3px;
+    border-radius: 20%;
+}
